@@ -1,2 +1,2 @@
-# C-Users-SMT-workspace-com.castsoftware.labs.esp.scheduler
+# com.castsoftware.labs.esp.scheduler
 Technology Extension for CA ESP Scheduler
